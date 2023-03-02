@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/diioliiver">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diioliiver&show_icons=true&theme=react&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diioliiver&layout=compact&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diioliiver&layout=compact&theme=react&langs_count=20"/>
 </div>  
 <div style="display: inline_block">
 <h5>Front-end</h5>
