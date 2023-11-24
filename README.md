@@ -27,6 +27,7 @@
   <img align="center" alt="DiiOliiver-Csharp" height="30" width="40" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="DiiOliiver-Csharp" height="30" width="40" title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="DiiOliiver-Csharp" height="30" width="40" title="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+  <img align="center" alt="DiiOliiver-Csharp" height="30" width="40" title="Node" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
   ##
