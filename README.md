@@ -75,7 +75,6 @@
 <h5>Test</h5>
 <br>
 <div>
-  <img align="center" alt="DiiOliiver-CypressIO" height="30" width="40" title="CypressIO" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-plain.svg">
   <img align="center" alt="DiiOliiver-Jest" height="30" width="40" title="Jest" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="DiiOliiver-Junit" height="30" width="40" title="Junit" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
 </div>
@@ -87,6 +86,7 @@
 <div>
   <img align="center" alt="DiiOliiver-Insomnia" height="30" width="40" title="Insomnia" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
   <img align="center" alt="DiiOliiver-Postman" height="30" width="40" title="Postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+  <img align="center" alt="DiiOliiver-CypressIO" height="30" width="40" title="CypressIO" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-plain.svg">
 </div>
 <br>
 <br>
