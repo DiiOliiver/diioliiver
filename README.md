@@ -1,9 +1,13 @@
 ## Hello World, meu nome é Diego!! 
 <div>
+  <a href="https://instagram.com/diioliiver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diioliiver" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<div>
   <a href="https://github.com/diioliiver">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=diioliiver&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diioliiver&layout=compact&theme=react&langs_count=20"/>
-</div>  
+</div> 
 <div style="display: inline_block">
 <h5>Front-end</h5>
 <br>
@@ -46,21 +50,21 @@
   <img align="center" alt="DiiOliiver-Trello" height="30" width="40" title="Trello" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
   <img align="center" alt="DiiOliiver-Slack" height="30" width="40" title="Slack" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
 </div>
-
+<h5>Utilities</h5>
 <div>
   <img align="right" alt="DiiOliiver-png" width="250" src="https://64.media.tumblr.com/9dd51db7fe812a00fd68dc931a7012d7/5a8de5b73f829785-2c/s1280x1920/9c3472b65020b77939ab9c790a9e315f192c6696.png">
 </div>
-<h5>Utilities</h5>
 <br>
 <div>
   <img align="center" alt="DiiOliiver-Insomnia" height="30" width="40" title="Insomnia" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
   <img align="center" alt="DiiOliiver-Postman" height="30" width="40" title="Postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 </div>
 <br>
+<br>
 
-##
-  
-<div>
-  <a href="https://instagram.com/diioliiver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diioliiver" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 🏆 Github Achievements
+
+<p align="left"> <a href="https://github.com/DiegoFelipe"><img src="https://github-profile-trophy.vercel.app/?username=DiegoFelipe&margin-w=5&theme=radical" alt="Diego Felipe" /></a>
+
+
+<br/>
