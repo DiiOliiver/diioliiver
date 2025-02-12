@@ -9,16 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diioliiver&layout=compact&theme=react&langs_count=20"/>
 </div> 
 <div style="display: inline_block">
-<h5>Front-end</h5>
-<br>
-  <img align="center" alt="DiiOliiver-React" height="30" width="40" title="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="DiiOliiver-Js" height="30" width="40" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="DiiOliiver-Ts" height="30" width="40" title="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="DiiOliiver-React" height="30" width="40" title="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="DiiOliiver-Svelt" height="30" width="40" title="Svelte" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg">
-  <img align="center" alt="DiiOliiver-HTML" height="30" width="40" title="Html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="DiiOliiver-CSS" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<br>
 <h5>Design System</h5>
 <br>
   <img align="center" alt="DiiOliiver-Vuetify" height="30" width="40" title="Vuetify" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg">
