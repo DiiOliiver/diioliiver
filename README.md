@@ -35,6 +35,7 @@
   <img align="center" alt="DiiOliiver-Yii" height="30" width="40" title="Yii" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original.svg">
   <img align="center" alt="DiiOliiver-php" height="30" width="40" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="DiiOliiver-Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="DiiOliiver-FastAPI" height="30" width="40" title="FastAPI" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
   <img align="center" alt="DiiOliiver-MongoDB" height="30" width="40" title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="DiiOliiver-MySQL" height="30" width="40" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="DiiOliiver-PostgresSQL" height="30" width="40" title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
@@ -47,9 +48,8 @@
 <h5>DevOps</h5>
 <br>
 <div>
-  <img align="center" alt="DiiOliiver-Github" height="30" width="40" title="Github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="DiiOliiver-Bitbucket" height="30" width="40" title="Bitbucket" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
-  <img align="center" alt="DiiOliiver-Jira" height="30" width="40" title="Jira" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+  <img align="center" alt="DiiOliiver-Github" height="30" width="40" title="Github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="DiiOliiver-Git" height="30" width="40" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="DiiOliiver-Docker" height="30" width="40" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="DiiOliiver-Gitlab" height="30" width="40" title="Gitlab" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
